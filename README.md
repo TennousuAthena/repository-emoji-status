@@ -19,7 +19,7 @@ emoji                                   | emoji 代码                   | 说�
 :poop:(内啥)                            |  `:poop:`                     | 该项目是作者的黑历史
 :turtle:(乌龟)                          | `:turtle:`                    | 该项目正以缓慢进度更新中
 :snail:(蜗牛)                            | `:snail:`                    | 同上
-:dove:                                   | `:dove:`                     | 该项目已搁（鸽）置
+:dove: (鸽子)                            | `:dove:`                     | 该项目已搁（鸽）置
 :whale:(鲸)                             | `:whale:`                     | 该项目使用了Docker
 :lock:(锁)                              | `:lock:`                      | 该项目已被设置只读
 :page_with_curl:(文档)                  | `:page_with_curl:`            | 该项目用于存放文档
